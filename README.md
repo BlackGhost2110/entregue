@@ -1,2 +1,1 @@
-# entregue
-entregue o pedido na caixa, jogo básico mais interativo.
+# project-c23-template
